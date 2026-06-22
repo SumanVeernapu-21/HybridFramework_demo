@@ -1,1 +1,2 @@
 To test pull file from global repository to local repository
+To test pushing the file from working directory to remote repository as well
